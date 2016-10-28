@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /css
+Disallow: /js
+Disallow: /fonts
+Disallow: /img
+Disallow: /libs
+Disallow: /phpmailer
+Disallow: /old
+Sitemap: http://kpntunnel.com/sitemap.xml
+
+
